@@ -139,17 +139,17 @@ Recent B.Tech graduate (VIT Chennai) specializing in **React and MERN stack** de
 
 ##  What Sets Me Apart
 
-** Production-Ready Mindset**
+**Production-Ready Mindset**
 - All projects deployed and actively maintained with real user traffic
 - Experience with cloud platforms (Render, Vercel), environment management, and CI/CD concepts
 - Focus on security (JWT, input validation, XSS prevention) from day one
 
-** Problem-Solving Approach**
+**Problem-Solving Approach**
 - Built complex features like AI-powered waste sorting (85%+ accuracy)
 - Designed role-based access control for military asset management
 - Integrated third-party APIs (Google Gemini, Cloudinary) effectively
 
-** Team Collaboration**
+**Team Collaboration**
 - DRDO internship: Collaborated on defense simulations, met strict quality standards
 - Comfortable with Git workflows, code reviews, and agile methodologies
 - Clear technical communication - can explain architecture decisions to stakeholders
@@ -162,9 +162,9 @@ Recent B.Tech graduate (VIT Chennai) specializing in **React and MERN stack** de
   <img src="https://github-readme-stats.vercel.app/api?username=Swaminathanjk&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swaminathanjk&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+</p> -->
 
 <p align="center">
   <strong>269 contributions in the last year</strong> • Consistent coding habits • Multiple deployed projects
@@ -174,12 +174,12 @@ Recent B.Tech graduate (VIT Chennai) specializing in **React and MERN stack** de
 
 ##  Experience & Education
 
-** Defense Research and Development Organization (DRDO)** — *Intern* (Sep 2023 – Nov 2023)
+**Defense Research and Development Organization (DRDO)** — *Intern* (Sep 2023 – Nov 2023)
 - Developed interactive simulations using Unreal Engine Blueprints
 - Collaborated with defense teams on mission-critical projects
 - Maintained high-quality standards through rigorous testing and iteration
 
-** B.Tech — Electronics & Computer Engineering** — VIT Chennai (Jun 2025)  
+**B.Tech — Electronics & Computer Engineering** — VIT Chennai (Jun 2025)  
 **CGPA: 8.29/10**
 
 ---
