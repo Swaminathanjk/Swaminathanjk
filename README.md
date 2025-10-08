@@ -16,13 +16,13 @@
 
 ---
 
-## 👋 Quick TL;DR
+## 👋 About Me
 - Frontend-focused MERN developer with strong UI instincts and production deployments.  
 - Built and deployed **multiple live apps** (task manager, waste-sorting UI, social media app, asset manager).  
 - Internship at **DRDO** (Unreal Engine simulations) — practiced disciplined, mission-driven engineering.  
 - B.Tech (ECE), VIT Chennai — **CGPA: 8.29**.  
 - Open to frontend / full-stack roles where I can own UI/UX and lead frontend architecture.  
-*(Details from resume.)* :contentReference[oaicite:1]{index=1}
+
 
 ---
 
