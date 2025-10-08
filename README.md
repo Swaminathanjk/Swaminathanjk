@@ -20,7 +20,7 @@
 - Frontend-focused MERN developer with strong UI instincts and production deployments.  
 - Built and deployed **multiple live apps** (task manager, waste-sorting UI, social media app, asset manager).  
 - Internship at **DRDO** (Unreal Engine simulations) — practiced disciplined, mission-driven engineering.  
-- B.Tech (ECE), VIT Chennai — **CGPA: 8.29**.  
+- B.Tech (ECM), VIT Chennai — **CGPA: 8.29**.  
 - Open to frontend / full-stack roles where I can own UI/UX and lead frontend architecture.  
 
 
@@ -41,7 +41,7 @@
 
 ---
 
-## ⭐ Selected projects (live)
+##  Selected projects (live)
 > Links first — quick impact statement.
 
 - **Military Asset Manager** — *MERN (role-based access)*  
@@ -64,7 +64,7 @@
 
 ---
 
-## 🔍 Why hire me (quick elevator)
+## Why hire me (quick elevator)
 - I ship polished UIs that are fast, accessible, and maintainable.  
 - I can own frontend architecture and make trade-offs between UX, performance, and delivery.  
 - I integrate models and APIs thoughtfully — not as gimmicks but as features that solve a user problem.  
@@ -72,7 +72,7 @@
 
 ---
 
-## 🧰 Experience & Education
+##  Experience & Education
 **Defense Research and Development Organization (DRDO)** — Intern (Sep–Nov 2023)  
 - Built interactive simulations with Unreal Engine Blueprints; focused on reliability and cross-team testing.
 
@@ -80,14 +80,14 @@
 
 ---
 
-## 📜 Certifications & learning
+##  Certifications & learning
 - C Language & Python training — IIT Bombay (online)  
 - Cisco Packet Tracer introduction  
 - Progressing through Meta Front-End Developer Professional Certificate
 
 ---
 
-## 📫 Contact / Hiring
+##  Contact / Hiring
 <p>
   <a href="mailto:swaminathanjk@gmail.com"><img src="https://img.shields.io/badge/Email-swaminathanjk%40gmail.com-DD4B39?logo=gmail&style=flat-square" alt="email"/></a>
   <a href="https://www.linkedin.com/in/swamijk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Swamijk-0A66C2?logo=linkedin&style=flat-square" alt="linkedin"/></a>
