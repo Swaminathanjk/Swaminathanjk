@@ -159,7 +159,16 @@ Recent B.Tech graduate (VIT Chennai) specializing in **React and MERN stack** de
 ##  GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swaminathanjk&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Swaminathanjk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Swaminathanjk&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+    width="48%"
+  />
 </p>
 
 <!-- <p align="center">
