@@ -159,24 +159,12 @@ Recent B.Tech graduate (VIT Chennai) specializing in **React and MERN stack** de
 ##  GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Swaminathanjk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
-    alt="GitHub Stats"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Swaminathanjk&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
-    width="48%"
-  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Swaminathanjk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Swaminathanjk&theme=github-dark&hide_border=true"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swaminathanjk&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p> -->
-
 <p align="center">
-  <strong>269 contributions in the last year</strong> • Consistent coding habits • Multiple deployed projects
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Swaminathanjk&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
