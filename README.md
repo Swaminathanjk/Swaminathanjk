@@ -1,209 +1,221 @@
-<!-- Improved Professional GitHub Profile README -->
+<!--
+  ════════════════════════════════════════════════════════════════
+   J.K. SWAMINATHAN — GitHub Profile README
+   Palette: sky #0EA5E9 · indigo #6366F1 · violet #8B5CF6 · cyan #22D3EE
+   ⚠️  Search for "TODO" to fill in your repo links before publishing.
+  ════════════════════════════════════════════════════════════════
+-->
 
-<!-- Hero -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2b6cb0&width=780&lines=J.K.+Swaminathan+-+React+Developer;MERN+Stack+%7C+Frontend+Engineer;Building+Production-Ready+Web+Apps" alt="typing" />
-</p>
+<!-- ─────────────────────────  HERO  ───────────────────────── -->
 
-<p align="center">
-  <a href="https://portfolio-swami-topaz.vercel.app" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-Visit-blue?logo=vercel&style=for-the-badge"/></a>
-  <a href="https://github.com/Swaminathanjk" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-@Swaminathanjk-181717?logo=github&style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/swamijk" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge"/></a>
-  <a href="mailto:swaminathanjk@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-Contact-DD4B39?logo=gmail&style=for-the-badge"/></a>
-  <a href="./Swaminathan_Resume.pdf" target="_blank"><img alt="resume" src="https://img.shields.io/badge/Resume-PDF-6f42c1?logo=adobepdf&style=for-the-badge"/></a>
-
-</p>
-
----
-
-##  About Me
-
-Recent B.Tech graduate (VIT Chennai) specializing in **React and MERN stack** development with a passion for building scalable, user-centric web applications.
-
-**Highlights:**
--  Built and deployed **4 production apps** with active users on Render/Vercel
--  Strong focus on **clean architecture, JWT security, and responsive UIs**
--  Experienced integrating **AI/ML features** (TensorFlow, Google Gemini API)
--  Internship at **DRDO** - Developed interactive simulations with Unreal Engine
-- **269 GitHub contributions** in the last year with consistent coding habits
-
-**Currently:** Enhancing frontend skills through Meta's Front-End Developer Certificate & learning Next.js
-
-**Open to:** Frontend/Full-stack React Developer roles where I can contribute to impactful products
-
----
-
-## 🔧 Tech Stack
-
-**Frontend:**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=white&style=flat-square" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white&style=flat-square" alt="Material UI"/>
-</p>
-
-**Backend:**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square" alt="Express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat-square" alt="JWT"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?logo=fastapi&logoColor=white&style=flat-square" alt="REST APIs"/>
-</p>
-
-**AI/ML & Tools:**
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=flat-square" alt="Cloudinary"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" alt="Firebase"/>
-</p>
-
-**Currently Learning:**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" alt="Spring Boot"/>
-</p>
-
----
-
-##  Featured Projects
-
-###  [Military Asset Manager](https://military-asset-manager-1.onrender.com/)
-**Enterprise-level asset tracking system with role-based access control**
-
-**Tech Stack:** React.js, Node.js, Express, MongoDB, JWT Authentication, REST APIs  
-
-**Key Features:**
-- Secure admin/user role management with granular permissions
-- Real-time asset CRUD operations with MongoDB
-- Interactive admin dashboard with analytics and reporting
-- RESTful API design with proper error handling
-- Deployed on Render with environment variable management
-
-**Technical Highlights:** Implemented JWT-based authentication, designed scalable database schemas, built reusable React components
-
----
-
-###  [AI Task Manager](https://zocket-frontend.onrender.com/)
-**Intelligent productivity app powered by Google Gemini AI**
-
-**Tech Stack:** React (Vite), Node.js, Express, MongoDB, JWT, Google Gemini API  
-
-**Key Features:**
-- AI-generated task suggestions based on user context
-- Smart task suggestions using Gemini
-- Secure authentication with JWT tokens
-- Responsive UI with modern design patterns
-
-**Technical Highlights:** API integration with Google Gemini, prompt engineering, state management with Context API
-
----
-
-###  [AI-Powered Waste Sorting Assistant](https://waste-ui-1.onrender.com/)
-**ML-driven waste classification system for environmental sustainability**
-
-**Tech Stack:** React, Node.js, TensorFlow.js, MongoDB, Express, CUDA  
-
-**Key Features:**
-- Real-time image classification using custom TensorFlow model
-- Interactive analytics dashboard with visualization
-- 85%+ classification accuracy across waste categories
-- User-friendly interface for waste identification
-
-**Technical Highlights:** ML model integration, optimized inference performance, data visualization with recharts
-
----
-
-###  [MemeVerse](https://memeverse-frontend.vercel.app/)
-**Social media platform for meme enthusiasts**
-
-**Tech Stack:** React, Node.js, Express, MongoDB, Cloudinary, JWT  
-
-**Key Features:**
-- Infinite scroll with lazy loading for performance
-- Image uploads via Cloudinary CDN with optimization
-- User authentication, profiles, and social interactions
-- Like/comment functionality with real-time updates
-
-**Technical Highlights:** CDN integration, infinite scroll implementation, optimized image delivery
-
----
-
-##  What Sets Me Apart
-
-**Production-Ready Mindset**
-- All projects deployed and actively maintained with real user traffic
-- Experience with cloud platforms (Render, Vercel), environment management, and CI/CD concepts
-- Focus on security (JWT, input validation, XSS prevention) from day one
-
-**Problem-Solving Approach**
-- Built complex features like AI-powered waste sorting (85%+ accuracy)
-- Designed role-based access control for military asset management
-- Integrated third-party APIs (Google Gemini, Cloudinary) effectively
-
-**Team Collaboration**
-- DRDO internship: Collaborated on defense simulations, met strict quality standards
-- Comfortable with Git workflows, code reviews, and agile methodologies
-- Clear technical communication - can explain architecture decisions to stakeholders
-
----
-
-##  GitHub Activity
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=190&section=header&text=J.K.%20Swaminathan&fontSize=52&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=React%20%C2%B7%20MERN%20%C2%B7%20I%20build%20things%20that%20actually%20ship&descAlignY=56&descSize=17" alt="J.K. Swaminathan" />
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Swaminathanjk&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Swaminathanjk&theme=github-dark&hide_border=true"/>
+  <a href="https://portfolio-swami-topaz.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&height=45&lines=Full-Stack+Developer+%E2%80%94+React+%2B+Node;4+production+apps+live+and+serving+users;AI-integrated+web+experiences;Open+to+Frontend+%2F+Full-Stack+roles" alt="What I do" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Swaminathanjk&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-##  Experience & Education
-
-**Defense Research and Development Organization (DRDO)** — *Intern* (Sep 2023 – Nov 2023)
-- Developed interactive simulations using Unreal Engine Blueprints
-- Collaborated with defense teams on mission-critical projects
-- Maintained high-quality standards through rigorous testing and iteration
-
-**B.Tech — Electronics & Computer Engineering** — VIT Chennai (Jun 2025)  
-**CGPA: 8.29/10**
-
----
-
-##  Certifications
-
-- **Meta Front-End Developer Professional Certificate** (In Progress)
-- **C Programming Training** — IIT Bombay (Online)
-- **Python Programming Training** — IIT Bombay (Online)
-- **Cisco Packet Tracer Introduction** — Cisco Networking Academy
-
----
-
-##  Let's Connect
-
-<p align="center">
-  <a href="mailto:swaminathanjk@gmail.com"><img src="https://img.shields.io/badge/Email-swaminathanjk%40gmail.com-DD4B39?logo=gmail&style=for-the-badge" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/swamijk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Swamijk-0A66C2?logo=linkedin&style=for-the-badge" alt="linkedin"/></a>
-  <a href="https://portfolio-swami-topaz.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?logo=vercel&style=for-the-badge" alt="portfolio"/></a>
+  <a href="https://portfolio-swami-topaz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/swamijk"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:swaminathanjk@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="./Swaminathan_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-1F2937?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
 </p>
 
 <p align="center">
-  <em>Open to Frontend/Full-stack React Developer opportunities • Available to start immediately</em>
+  <img src="https://komarev.com/ghpvc/?username=Swaminathanjk&label=Profile%20views&color=6366F1&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Based%20in-India-0EA5E9?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Frontend%20%2F%20Full--Stack-22C55E?style=flat-square" alt="Open to work" />
 </p>
 
----
+<br />
+
+<!-- ─────────────────────────  ABOUT  ───────────────────────── -->
+
+## 👋 &nbsp;Hey, I'm Swami
+
+I build **production-grade web apps with React and the MERN stack** — the kind that get deployed, get used, and keep running. Recent B.Tech grad from **VIT Chennai**, currently going deep on Next.js and TypeScript.
+
+```ts
+const swami = {
+  role:      "Full-Stack Developer",
+  focus:     ["React", "Node.js", "Clean architecture", "AI integrations"],
+  shipped:   4,                        // production apps, live right now
+  learning:  ["Next.js", "TypeScript", "Spring Boot"],
+  worked_at: "DRDO — Unreal Engine simulations for defence",
+  ask_me_about: "JWT auth, MongoDB schema design, or wiring an LLM into a UI",
+  open_to:   "Frontend / Full-stack roles — available immediately",
+};
+```
+
+<br />
+
+<!-- ─────────────────────────  PROJECTS  ───────────────────────── -->
+
+## 🚀 &nbsp;Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Military Asset Manager
+Enterprise asset tracking with **role-based access control** — granular admin/user permissions, real-time CRUD, and an analytics dashboard.
+
+`React` `Node` `Express` `MongoDB` `JWT`
+
+**→** Designed the RBAC layer and scalable schemas from scratch.
+
+<a href="https://military-asset-manager-1.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=render&logoColor=white" /></a>
+<a href="https://github.com/Swaminathanjk"><img src="https://img.shields.io/badge/Code-1F2937?style=flat-square&logo=github&logoColor=white" /></a>
+<!-- TODO: replace the Code link with the actual repo URL -->
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Task Manager
+Productivity app where **Google Gemini** generates context-aware task suggestions instead of you staring at an empty list.
+
+`React (Vite)` `Node` `MongoDB` `Gemini API`
+
+**→** Prompt engineering + Context API state management.
+
+<a href="https://zocket-frontend.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=render&logoColor=white" /></a>
+<a href="https://github.com/Swaminathanjk"><img src="https://img.shields.io/badge/Code-1F2937?style=flat-square&logo=github&logoColor=white" /></a>
+<!-- TODO: replace the Code link with the actual repo URL -->
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ♻️ Waste Sorting Assistant
+Real-time image classification for waste sorting, hitting **85%+ accuracy** across categories — with an analytics dashboard on top.
+
+`TensorFlow.js` `React` `Node` `MongoDB`
+
+**→** Custom model integration and optimised browser inference.
+
+<a href="https://waste-ui-1.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=flat-square&logo=render&logoColor=white" /></a>
+<a href="https://github.com/Swaminathanjk"><img src="https://img.shields.io/badge/Code-1F2937?style=flat-square&logo=github&logoColor=white" /></a>
+<!-- TODO: replace the Code link with the actual repo URL -->
+
+</td>
+<td width="50%" valign="top">
+
+### 😂 MemeVerse
+A social platform for memes — infinite scroll with lazy loading, Cloudinary CDN uploads, profiles, likes and comments.
+
+`React` `Express` `MongoDB` `Cloudinary`
+
+**→** Optimised image delivery and scroll performance.
+
+<a href="https://memeverse-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-22D3EE?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Swaminathanjk"><img src="https://img.shields.io/badge/Code-1F2937?style=flat-square&logo=github&logoColor=white" /></a>
+<!-- TODO: replace the Code link with the actual repo URL -->
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<!-- ─────────────────────────  STACK  ───────────────────────── -->
+
+## 🛠️ &nbsp;Tech Stack
+
+<table>
+<tr><td><b>Frontend</b></td><td>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,vite,materialui,tailwind&theme=dark" />
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+</td></tr>
+<tr><td><b>Tools &amp; ML</b></td><td>
+<img src="https://skillicons.dev/icons?i=git,github,postman,tensorflow,vercel,figma&theme=dark" />
+</td></tr>
+<tr><td><b>Learning</b></td><td>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,java,spring&theme=dark" />
+</td></tr>
+</table>
+
+<sub>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=swagger&logoColor=white" />
+</sub>
+
+<br />
+
+<!-- ─────────────────────────  STATS  ───────────────────────── -->
+
+## 📊 &nbsp;By the Numbers
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Swaminathanjk&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Swaminathanjk&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=6366F1&ring_color=8B5CF6" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaminathanjk&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top languages" />
 </p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=Swaminathanjk&hide_border=true&background=0D1117&stroke=1F2937&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Swaminathanjk&hide_border=true&bg_color=0D1117&color=22D3EE&line=6366F1&point=8B5CF6&area=true&area_color=6366F1" alt="Contribution graph" />
+</p>
+
+<!-- Snake animation — requires the workflow in .github/workflows/snake.yml (see setup notes) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swaminathanjk/Swaminathanjk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swaminathanjk/Swaminathanjk/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Swaminathanjk/Swaminathanjk/output/github-snake.svg" width="100%" />
+</picture>
+
+<br />
+
+<!-- ─────────────────────────  BACKGROUND  ───────────────────────── -->
+
+## 🎯 &nbsp;How I Work
+
+> **Ship it, then keep it running.** Every project above is deployed, monitored and maintained — not a `localhost` screenshot. Security (JWT, input validation, XSS) goes in on day one, not after the first incident.
+
+<details>
+<summary><b>📁 &nbsp;Experience, education & certifications</b></summary>
+
+<br />
+
+**DRDO — Intern** · *Sep 2023 – Nov 2023*
+- Built interactive simulations with Unreal Engine Blueprints
+- Collaborated with defence teams on mission-critical work under strict quality standards
+
+**B.Tech, Electronics & Computer Engineering** · VIT Chennai · *Jun 2025*
+- CGPA **8.29 / 10**
+
+**Certifications**
+- Meta Front-End Developer Professional Certificate *(in progress)*
+- C Programming — IIT Bombay
+- Python Programming — IIT Bombay
+- Cisco Packet Tracer Introduction — Cisco Networking Academy
+
+</details>
+
+<br />
+
+<!-- ─────────────────────────  CTA  ───────────────────────── -->
+
+## 🤝 &nbsp;Let's Build Something
+
+<p align="center">
+  <b>I'm looking for a Frontend or Full-Stack React role where I can own real features.</b><br />
+  <sub>Available to start immediately · Happy to talk through any of the projects above.</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:swaminathanjk@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-swaminathanjk@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/swamijk"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-swami-topaz.vercel.app"><img src="https://img.shields.io/badge/See%20the%20portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0EA5E9&height=120&section=footer" alt="" />
